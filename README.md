@@ -54,3 +54,5 @@ http://localhost:8501
 - Excel (`.xlsx`)
 - PDF (`.pdf`)
 - Word Document (`.docx`)
+
+https://youtu.be/errJ0L0kwnQ?si=HJGLkxLoQXHaUiTl
