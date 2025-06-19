@@ -1,0 +1,12 @@
+streamlit
+openai
+python-dotenv
+chromadb
+sentence-transformers
+PyMuPDF
+python-docx
+pandas
+numpy
+tqdm
+scikit-learn
+pdfminer.six
