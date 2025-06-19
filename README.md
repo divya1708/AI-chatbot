@@ -9,8 +9,8 @@ This repository contains a Streamlit-based web application that allows users to 
 Open your terminal or command prompt and run the following commands:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/divya1708/AI-chatbot.git
+cd AI-chatbot
 ```
 
 ### 2. Install Required Packages
