@@ -61,7 +61,6 @@ def split_text(text, chunk_size=5000)
 * Splits the long document into smaller chunks to support efficient vector storage and retrieval.
 * Default chunk size is set to 5000 characters.
 
----
 
 ### 5. *Embedding and Storing in ChromaDB*
 
