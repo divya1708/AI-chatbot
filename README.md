@@ -38,7 +38,7 @@ Replace the values with your actual Azure OpenAI credentials.
 In the same project directory, start the application:
 
 ```bash
-streamlit run app.py
+streamlit run main.py
 ```
 
 ### 5. Access the App in Your Browser
